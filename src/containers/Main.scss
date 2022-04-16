@@ -1,0 +1,8 @@
+@import "../_globalColor";
+
+.dark-mode {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2018%2F11%2Fpixel-gif-stars-6.gif&f=1&nofb=1");
+  background-color: $darkBackground;
+  color: white;
+  transition: "0.1s";
+}
