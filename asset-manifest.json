@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d594f662.chunk.css",
+    "main.js": "/static/js/main.71faa4cf.chunk.js",
+    "main.js.map": "/static/js/main.71faa4cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5eba2e88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5eba2e88.js.map",
+    "static/js/2.0bd1f593.chunk.js": "/static/js/2.0bd1f593.chunk.js",
+    "static/js/2.0bd1f593.chunk.js.map": "/static/js/2.0bd1f593.chunk.js.map",
+    "static/css/3.ad0a0608.chunk.css": "/static/css/3.ad0a0608.chunk.css",
+    "static/js/3.d0ac5764.chunk.js": "/static/js/3.d0ac5764.chunk.js",
+    "static/js/3.d0ac5764.chunk.js.map": "/static/js/3.d0ac5764.chunk.js.map",
+    "static/css/4.dcd9720f.chunk.css": "/static/css/4.dcd9720f.chunk.css",
+    "static/js/4.221f4606.chunk.js": "/static/js/4.221f4606.chunk.js",
+    "static/js/4.221f4606.chunk.js.map": "/static/js/4.221f4606.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d8dd5142c01f494a9f5ef3c0f13ac5a.js": "/precache-manifest.9d8dd5142c01f494a9f5ef3c0f13ac5a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.ad0a0608.chunk.css.map": "/static/css/3.ad0a0608.chunk.css.map",
+    "static/css/4.dcd9720f.chunk.css.map": "/static/css/4.dcd9720f.chunk.css.map",
+    "static/css/main.d594f662.chunk.css.map": "/static/css/main.d594f662.chunk.css.map",
+    "static/js/2.0bd1f593.chunk.js.LICENSE.txt": "/static/js/2.0bd1f593.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.867a0fb5.ttf",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
+    "static/media/chatup.png": "/static/media/chatup.7bc1dc63.png",
+    "static/media/connectn.png": "/static/media/connectn.7aacb2a0.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/cumlaude.png": "/static/media/cumlaude.1bcb8df0.png",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/ucla.png": "/static/media/ucla.278e30b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eba2e88.js",
+    "static/js/2.0bd1f593.chunk.js",
+    "static/css/main.d594f662.chunk.css",
+    "static/js/main.71faa4cf.chunk.js"
+  ]
+}
