@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37d400b08c1f0edfa634052a8f508186",
+    "revision": "6c05f2567a589fd20e971ffe43c089c4",
     "url": "/index.html"
   },
   {
-    "revision": "c07d435baad4e1ae7f79",
-    "url": "/static/css/3.ad0a0608.chunk.css"
+    "revision": "e79712b3058206fc2907",
+    "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "0ea9a5394fb4b57dfef5",
-    "url": "/static/css/4.dcd9720f.chunk.css"
+    "revision": "9a1a6e212e46b93378b4",
+    "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "695d6b2b01e073bc27e4",
-    "url": "/static/css/main.d594f662.chunk.css"
+    "revision": "f66f2aa182c339549297",
+    "url": "/static/css/main.b4aa3161.chunk.css"
   },
   {
     "revision": "92ed076c2019bdcad4e8",
@@ -24,28 +24,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.44e88ee9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c07d435baad4e1ae7f79",
+    "revision": "e79712b3058206fc2907",
     "url": "/static/js/3.5037e296.chunk.js"
   },
   {
-    "revision": "0ea9a5394fb4b57dfef5",
+    "revision": "9a1a6e212e46b93378b4",
     "url": "/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "695d6b2b01e073bc27e4",
-    "url": "/static/js/main.49f78cc8.chunk.js"
+    "revision": "f66f2aa182c339549297",
+    "url": "/static/js/main.47146e01.chunk.js"
   },
   {
-    "revision": "692f0d677f47ba15a1e0",
-    "url": "/static/js/runtime-main.c7eca41b.js"
+    "revision": "75d03172df7eade8cf5c",
+    "url": "/static/js/runtime-main.8717dc6e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "867a0fb5eb9662ddfd31789c513f9c41",
-    "url": "/static/media/Montserrat-Regular.867a0fb5.ttf"
+    "revision": "ee6539921d713482b8ccd4d0d23961bb",
+    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
